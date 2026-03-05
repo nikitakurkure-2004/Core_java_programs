@@ -1,0 +1,1 @@
+//Write a program to copy the odd index array element into other array and display
